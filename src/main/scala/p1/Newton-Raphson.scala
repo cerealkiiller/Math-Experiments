@@ -1,3 +1,4 @@
+package p1
 @main def Newton_Raphson(): Unit =
   def f(x: Double) = {
     val value = (10 * math.pow(x, 5)) + (-5)
